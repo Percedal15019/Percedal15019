@@ -2,5 +2,6 @@
 <h3 align="center">Full Stack Developer & AI Engineer</h3>
 
 <p>
-  <i>Code is read much more often than it is written– Guido van Rossum</i>
+  <i align="center">Code is read much more often than it is written – Guido van Rossum</i>
 </p>
+
