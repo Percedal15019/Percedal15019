@@ -1,2 +1,2 @@
-<h1 align="center">Vedant Pawar</h1>
+<h1 align="center">Vedant V Pawar</h1>
 
