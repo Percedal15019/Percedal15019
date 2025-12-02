@@ -1,4 +1,8 @@
-<h1 align="center">Vedant Pawar</h1>
+<h1 align="center">
+  <b>
+    Vedant Pawar
+  </b>
+</h1>
 <h3 align="center">Full Stack Developer & AI Engineer</h3>
 
 <p align="center">
