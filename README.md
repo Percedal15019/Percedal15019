@@ -14,3 +14,22 @@
     <img src="https://img.shields.io/badge/Instagram-Follow-critical?style=for-the-badge&logo=instagram" />
   </a>
 </p>
+
+## :: About Me
+
+- **Current Project**: AI Automation & Blockchain
+- **Learning**: Vector Database
+- **Collaboration**: Open to contributors and collaborations
+- **Contact**: vedant3066@gmail.com
+
+## :: Tech Stack
+
+### → Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+</p>
