@@ -6,12 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/vedantpawar15019" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
 
+  <a href="https://www.instagram.com/persedal_vedant" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-critical?style=for-the-badge&logo=instagram" />
+  </a>
 </p>
