@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/vedant-vikas-pawar" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/www.linkedin.com%2Fin%2Fvedant-vikas-pawar">
+  <a href="www.linkedin.com/in/vedantpawar15019" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 
     
 </p>
