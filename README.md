@@ -21,10 +21,10 @@
 
 ## :: About Me
 
-- **Current Project**: AI Automation & Blockchain
-- **Learning**: Vector Database
-- **Collaboration**: Open to contributors and collaborations
-- **Contact**: vedant3066@gmail.com
+- **Current Project** : AI Automation & Blockchain
+- **Learning** : Vector Database
+- **Collaboration** : Open to contributors and collaborations
+- **Contact** : vedant3066@gmail.com
 
 ## :: Tech Stack
 
