@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/vedant-pawar-198b00380" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
 
