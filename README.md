@@ -36,7 +36,7 @@
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="30" />
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="30" /> -->
 </p>
 
 ### → Frameworks & Tools
