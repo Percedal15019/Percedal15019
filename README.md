@@ -17,8 +17,6 @@
   <a href="https://www.instagram.com/persedal_vedant" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-critical?style=for-the-badge&logo=instagram" />
   </a>
-
-  [Github View Count](https://komarev.com/ghpvc/?username=Percedal15019&color=green)
   
 </p>
 
