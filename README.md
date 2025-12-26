@@ -23,7 +23,7 @@
 ## :: About Me
 
 - **Current Project** : AI Automation
-- **Learning** : Vector Database & Blockchain
+- **Learning** : Blockchain and Solidity
 - **Collaboration** : Open to contributors and collaborations
 - **Contact** : vedant3066@gmail.com
 
