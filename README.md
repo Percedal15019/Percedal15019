@@ -22,7 +22,7 @@
 
 ## :: About Me
 
-- **Current Project** : AI Automation
+- **Current Project** : Akash Khoj
 - **Learning** : Blockchain and Solidity
 - **Collaboration** : Open to contributors and collaborations
 - **Contact** : vedant3066@gmail.com
