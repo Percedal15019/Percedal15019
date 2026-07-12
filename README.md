@@ -22,7 +22,7 @@
 
 ## :: About Me
 
-- **Current Project** : 
+- **Current Project** : LLM Models
 - **Learning** : Blockchain and Solidity
 - **Collaboration** : Open to contributors and collaborations
 - **Contact** : vedant3066@gmail.com
