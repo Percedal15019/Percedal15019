@@ -35,9 +35,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Percedal15019&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <br/> 
+  <br> 
   <img src="https://streak-stats.demolab.com/?user=Percedal15019&theme=vision-friendly-dark&hide_border=false" alt="GitHub Streak" />
-  <br/> 
+  <br> 
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Percedal15019&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
