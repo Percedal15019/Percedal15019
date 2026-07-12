@@ -20,14 +20,30 @@
   
 </p>
 
-## :: About Me
+## 💫 About Me
 
 - **Current Project** : LLM Models
 - **Learning** : Blockchain and Solidity
 - **Collaboration** : Open to contributors and collaborations
 - **Contact** : vedant3066@gmail.com
 
-## :: Tech Stack
+<br>
+
+# 📊 GitHub Stats:
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Percedal15019&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <br/> 
+  <img src="https://streak-stats.demolab.com/?user=Percedal15019&theme=vision-friendly-dark&hide_border=false" alt="GitHub Streak" />
+  <br/> 
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Percedal15019&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+<br>
+
+## 💻 Tech Stack
 
 ### → Languages
 <p>
@@ -53,3 +69,4 @@
   <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" width="40" />
 </p>
 
+<br>
